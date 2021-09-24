@@ -1,5 +1,5 @@
 ### Hi there 👋
-Pride as a MtF 🏳️‍⚧️
+Pride as a MtF 🏳️‍⚧️ <br>
 The manager and the only member of bluelakelab<br>
 - 🔭 I’m currently working on bluelakelinux
 - 🌱 Use earthenfish
