@@ -1,8 +1,8 @@
 ### Hi there 👋
 Pride as a MtF 🏳️‍⚧️ <br>
-The manager and the only member of bluelakelab<br>
+Independent developer<br>
 - 🔭 I’m currently working on bluelakelinux
-- 🌱 Use earthenfish
+- 🌱 Use progynosh
 - 📫 happyegg.chen@gmail.com
 -->
 
