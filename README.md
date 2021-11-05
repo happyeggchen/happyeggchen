@@ -1,7 +1,7 @@
 ### Hi there 👋
 Pride as a MtF 🏳️‍⚧️ <br>
 Independent developer<br>
-- 🔭 I’m currently working on PlumLinux
+- 🔭 I’m currently working on ❀PlumLinux❀
 - 🌱 Use progynosh
 - 📫 happyegg.chen@gmail.com
 -->
