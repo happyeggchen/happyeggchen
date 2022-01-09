@@ -1,9 +1,9 @@
 ### Hi there 👋
 Pride as a MtF 🏳️‍⚧️ <br>
 Independent developer<br>
-- 🔭 I’m currently working on ❀PlumLinux❀
+- 🔭 I’m currently working on CenterLinux
 - 🌱 Use progynosh
-- 📫 happyegg.chen@gmail.com
+- 📫 tsingkwai@protonmail.com
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=happyeggchen&show_icons=true&theme=)<br>
