@@ -1,8 +1,7 @@
 ### Hi there 👋
-Pride as a MtF 🏳️‍⚧️ <br>
 Independent developer<br>
-- 🔭 I’m currently working on CenterLinux
-- 🌱 Use progynosh
+- 🔭 I’m working on CenterLinux and Hairpin Dashboard
+- 🌱 Use progynosh and fish to make wonderful things
 - 📫 tsingkwai@protonmail.com
 -->
 
